@@ -1,0 +1,65 @@
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.position {
+    height: 150px;
+}
+
+h1{
+    text-align: center;
+}
+
+.position img {
+    border-radius: 50%;
+    float: left;
+    padding-top: 10px;
+
+}
+
+.all {
+    position: center;
+    width: 500px;
+    margin: 5px auto;
+    
+}
+
+.liste {
+    float: left;
+    list-style-type: none;
+    padding-top: 10px;
+}
+
+hr {
+    border: none; 
+    border-top: 3px solid lightblue; 
+    margin: 10px 0; 
+  }
+  
+
+.competence h2{
+    text-align: center;
+    top: 50%;
+    left: 50%;
+}
+
+.experience h2{
+    text-align: center;
+    top: 50%;
+    left: 50%;
+}
+
+.formation h2{
+    text-align: center;
+    top: 50%;
+    left: 50%;
+}
+
+.formation, .experience {
+    padding-bottom: 20px;
+}
+
+.ul {
+    margin: 5px;
+}
